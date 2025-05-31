@@ -5,6 +5,7 @@ Hola, ¿Cómo estás?
 Mi nombre es Marlon Calva Carrillo.
 👨‍🎓 Soy estudiantes de la carrera "Ingeniería en sistemas computacionales" en la universidad UCAD.
 🌱 Actualmente estoy estudiando y enfocándome en el desarrollo de software implementando la IA.
-🏁 A largo plazo planeo ser desarrollador de software Full Stack.
-🎖️ Tengo conocimientos en Python, Java, JavaScript (Para Testing), C, C++, MySql y PostgreSQL.
-Contacto: calvacarrillomarlon@gmail.com
+🏁 A largo plazo planeo ser cientifico de datos.
+🎖️ Tengo conocimientos en Python, JavaScript (Para Testing), C++ y SQL (MySql).
+📊 Utilizo herramientas de datos como Excel y Power BI.
+📞 Contacto: calvacarrillomarlon@gmail.com
