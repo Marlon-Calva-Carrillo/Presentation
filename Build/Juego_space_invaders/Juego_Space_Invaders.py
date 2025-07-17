@@ -1,6 +1,4 @@
-#SESION 10. JUEGO (INVASION ESPACIAL).
-#Para comenzar con este proyecto debes instalar "pygame", lo puedes instalar desde la pagina oficial.
-#Ó lo puedes instalar desde la consola de windows.
+#JUEGO (INVASION ESPACIAL).
 import pygame #Importamos la libreria para acceder a ella
 import random
 import math
