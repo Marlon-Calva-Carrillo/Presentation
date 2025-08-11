@@ -1,0 +1,4 @@
+Hola!
+Te presento un proyecto para generar ventas en un gimnasio.
+El código en Python contiene la interfaz gráfica (Mediante Tkinter y paneles) para que el administrador pueda seleccionar los productos a vender.
+Puede seleccionar los productos y las cantidades, obtener el total y generar el ticket de venta.
