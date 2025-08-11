@@ -1,6 +1,6 @@
 Hola.
-El siguiente proyecto es un generador de datos.
-Este proyecto genera archivos CSV con datos falsos y aleatorios para facilitar pruebas y desarrolloen distintos entornos.
+El siguiente proyecto es de Analisis de Datos.
+Este proyecto contiene codigo en Python para generar archivos CSV con datos falsos y aleatorios para facilitar pruebas y desarrolloen distintos entornos.
 Cada registro contiene:
 -Nombre.
 -Apellidos (Paterno y materno).
@@ -13,3 +13,7 @@ USOS PRINCIPALES
 -Pruebas de bases de datos y validación de formularios.
 -Simulación de cargas en sistemas de gestión de usuarios.
 -Desarrollo de herramientas de análisis de datos sin comprometer información real.
+
+Aqui mismo adjunto una captura de pantalla de una practica hecha en Power BI.
+Dicha practica tiene como finalidad mostrar el porcentaje, la cantidad y la ubicacion geografica de personas dependiendo su genero.
+Debemos tener en cuenta que, entre mas datos tengamos, más practicas y gráficos podemos realizar.
