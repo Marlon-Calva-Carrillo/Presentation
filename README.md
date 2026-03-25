@@ -6,5 +6,4 @@ Hola, ¿Cómo estás? Mi nombre es Marlon Calva.
 🌱 Actualmente estoy desarrollando un sistema bancario que permita manipular datos (CRUD) y realizar transacciones, con Cobol, DB2 y CICS.
 🏁 A largo plazo planeo ser arquitecto de software.
 🎖️ Tengo conocimientos en Cobol, Python y SQL (MySQL, DB2).
-👾Actualmente estoy creando un sistema bancario 
 📞 Contacto: calvacarrillomarlon@gmail.com
