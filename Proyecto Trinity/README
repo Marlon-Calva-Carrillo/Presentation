@@ -1,0 +1,23 @@
+#Sistema CRUD Bancario en COBOL (Trinity).
+Hola.
+Trinity es una aplicación backend, me encuentro desarrollándola en COBOL
+con integración a Bases de datos que permite la gestión de clientes, cuentas y transacciones simulando un entorno bancario real.
+
+Funcionalidades:
+-Alta de clientes.
+-Consulta de datos.
+-Actualización de datos.
+-Eliminación de registros.
+-Validaciones de integridad.
+-Manejo de errores.
+
+El sistema está estructurado en módulos:
+-Programa principal.
+-Subprogramas para cada operación (CRUD).
+-Acceso a datos (DB2)
+-Manejo de errores (Por si algo no se cumple).
+
+Tecnologías utilizadas:
+-Cobol (En proceso).
+-DB2 (En proceso).
+-CICS (En proceso).
